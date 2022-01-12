@@ -1,0 +1,1 @@
+Create a folder name Image and add the image to that folder .dont need to modify the program(name of the image file must be the name of the person)
